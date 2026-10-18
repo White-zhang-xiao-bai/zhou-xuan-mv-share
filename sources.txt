@@ -1,106 +1,100 @@
-《周旋 · 没有新回复》
-个人音乐影像剪辑
-剧情聊天为本次虚构创作，不是歌词或真实聊天记录。
-主线演员来自同一组咖啡馆素材；海边背影与手部为空镜补充。
-45个镜头，原片使用区间无重叠。
-未使用抖音他人视频片段。
-音乐：王以太 / 艾热 AIR《周旋》，用户提供音频。
+《周旋 · 一封没有寄出的信》
+画面、动画与剧情文字为本次原创创作。无真人影视素材。
+音乐：王以太 / 艾热 AIR《周旋》，音频由用户提供，歌曲权利归原权利人所有。
+歌词按句同步，句内文字动画不等同于逐字卡拉 OK 校准。
+字体：Long Cang，Chen Xiaomin
+来源：https://github.com/google/fonts/tree/main/ofl/longcang
 
-raindrops on glass with blurred city lights in the background
-Mixkit Stock Video Free License
-https://mixkit.co/free-stock-video/raindrops-on-glass-with-blurred-city-lights-in-the-background-99834/
+Copyright 2018 The Long Cang Project Authors (https://github.com/googlefonts/longcang)
 
-fireworks over a city
-Mixkit Stock Video Free License
-https://mixkit.co/free-stock-video/fireworks-over-a-city-4244/
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+This license is copied below, and is also available with a FAQ at:
+http://scripts.sil.org/OFL
 
-shore of a calm lake with sand grass and rocks
-Mixkit Stock Video Free License
-https://mixkit.co/free-stock-video/shore-of-a-calm-lake-with-sand-grass-and-rocks-41562/
 
-a gloomy and depressing overcast sky
-Mixkit Stock Video Restricted License（个人非商业用途）
-https://mixkit.co/free-stock-video/a-gloomy-and-depressing-overcast-sky-9680/
+-----------------------------------------------------------
+SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
+-----------------------------------------------------------
 
-lonely and brooding man on the shore of a beach
-Mixkit Stock Video Restricted License（个人非商业用途）
-https://mixkit.co/free-stock-video/lonely-and-brooding-man-on-the-shore-of-a-beach-35889/
+PREAMBLE
+The goals of the Open Font License (OFL) are to stimulate worldwide
+development of collaborative font projects, to support the font creation
+efforts of academic and linguistic communities, and to provide a free and
+open framework in which fonts may be shared and improved in partnership
+with others.
 
-man smoking on the seashore at dusk
-Mixkit Stock Video Restricted License（个人非商业用途）
-https://mixkit.co/free-stock-video/man-smoking-on-the-seashore-at-dusk-35885/
+The OFL allows the licensed fonts to be used, studied, modified and
+redistributed freely as long as they are not sold by themselves. The
+fonts, including any derivative works, can be bundled, embedded,
+redistributed and/or sold with any software provided that any reserved
+names are not used by derivative works. The fonts and derivatives,
+however, cannot be released under any other type of license. The
+requirement for fonts to remain under this license does not apply
+to any document created using the fonts or their derivatives.
 
-hands of a loving couple
-Mixkit Stock Video Free License
-https://mixkit.co/free-stock-video/hands-of-a-loving-couple-39963/
+DEFINITIONS
+"Font Software" refers to the set of files released by the Copyright
+Holder(s) under this license and clearly marked as such. This may
+include source files, build scripts and documentation.
 
-drops of water slowly falling into a puddle
-Mixkit Stock Video Free License
-https://mixkit.co/free-stock-video/drops-of-water-slowly-falling-into-a-puddle-3897/
+"Reserved Font Name" refers to any names specified as such after the
+copyright statement(s).
 
-focus pull from raindrops to payphone
-Mixkit Stock Video Free License
-https://mixkit.co/free-stock-video/focus-pull-from-raindrops-to-payphone-100868/
+"Original Version" refers to the collection of Font Software components as
+distributed by the Copyright Holder(s).
 
-rain falling on a car window
-Mixkit Stock Video Restricted License（个人非商业用途）
-https://mixkit.co/free-stock-video/rain-falling-on-a-car-window-20311/
+"Modified Version" refers to any derivative made by adding to, deleting,
+or substituting -- in part or in whole -- any of the components of the
+Original Version, by changing formats or by porting the Font Software to a
+new environment.
 
-colorful rain soaked bokeh lights at night
-Mixkit Stock Video Free License
-https://mixkit.co/free-stock-video/colorful-rain-soaked-bokeh-lights-at-night-99841/
+"Author" refers to any designer, engineer, programmer, technical
+writer or other person who contributed to the Font Software.
 
-view from a window of the night outside
-Mixkit Stock Video Free License
-https://mixkit.co/free-stock-video/view-from-a-window-of-the-night-outside-3978/
+PERMISSION & CONDITIONS
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of the Font Software, to use, study, copy, merge, embed, modify,
+redistribute, and sell modified and unmodified copies of the Font
+Software, subject to the following conditions:
 
-thunderstorm at night
-Mixkit Stock Video Free License
-https://mixkit.co/free-stock-video/thunderstorm-at-night-4422/
+1) Neither the Font Software nor any of its individual components,
+in Original or Modified Versions, may be sold by itself.
 
-nighttime park with illuminated streetlights and trees
-Mixkit Stock Video Free License
-https://mixkit.co/free-stock-video/nighttime-park-with-illuminated-streetlights-and-trees-100417/
+2) Original or Modified Versions of the Font Software may be bundled,
+redistributed and/or sold with any software, provided that each copy
+contains the above copyright notice and this license. These can be
+included either as stand-alone text files, human-readable headers or
+in the appropriate machine-readable metadata fields within text or
+binary files as long as those fields can be easily viewed by the user.
 
-night panorama of the skyscrapers of a big city
-Mixkit Stock Video Free License
-https://mixkit.co/free-stock-video/night-panorama-of-the-skyscrapers-of-a-big-city-40654/
+3) No Modified Version of the Font Software may use the Reserved Font
+Name(s) unless explicit written permission is granted by the corresponding
+Copyright Holder. This restriction only applies to the primary font name as
+presented to the users.
 
-window on a rainy day
-Mixkit Stock Video Free License
-https://mixkit.co/free-stock-video/window-on-a-rainy-day-2846/
+4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font
+Software shall not be used to promote, endorse or advertise any
+Modified Version, except to acknowledge the contribution(s) of the
+Copyright Holder(s) and the Author(s) or with their explicit written
+permission.
 
-young man waiting for his appointment to arrive
-Mixkit Stock Video Free License
-https://mixkit.co/free-stock-video/young-man-waiting-for-his-appointment-to-arrive-39947/
+5) The Font Software, modified or unmodified, in part or in whole,
+must be distributed entirely under this license, and must not be
+distributed under any other license. The requirement for fonts to
+remain under this license does not apply to any document created
+using the Font Software.
 
-boyfriend hugs his girlfriend distracted on her cell phone
-Mixkit Stock Video Free License
-https://mixkit.co/free-stock-video/boyfriend-hugs-his-girlfriend-distracted-on-her-cell-phone-39954/
+TERMINATION
+This license becomes null and void if any of the above conditions are
+not met.
 
-girl surprises her boyfriend with a kiss on the cheek
-Mixkit Stock Video Free License
-https://mixkit.co/free-stock-video/girl-surprises-her-boyfriend-with-a-kiss-on-the-cheek-39962/
-
-couple chatting on a romantic date on valentines day
-Mixkit Stock Video Free License
-https://mixkit.co/free-stock-video/couple-chatting-on-a-romantic-date-on-valentines-day-39950/
-
-romantic date in a coffee shop
-Mixkit Stock Video Free License
-https://mixkit.co/free-stock-video/romantic-date-in-a-coffee-shop-39951/
-
-a romantic date in a cafe abroad
-Mixkit Stock Video Free License
-https://mixkit.co/free-stock-video/a-romantic-date-in-a-cafe-abroad-39957/
-
-lovers during a romantic date
-Mixkit Stock Video Free License
-https://mixkit.co/free-stock-video/lovers-during-a-romantic-date-39956/
-
-girl waiting for her date in a cottage style place
-Mixkit Stock Video Free License
-https://mixkit.co/free-stock-video/girl-waiting-for-her-date-in-a-cottage-style-place-39945/
-
-许可说明：https://mixkit.co/license/
-歌曲权利仍属于原权利人；素材许可不包含歌曲的发布授权。
+DISCLAIMER
+THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT
+OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE
+COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL
+DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM
+OTHER DEALINGS IN THE FONT SOFTWARE.
