@@ -1,20 +1,30 @@
-周旋 · 雨落以前
+周旋 · 未发送
 
-音乐：王以太 / 艾热 AIR《周旋》。本页音频由用户提供，长度 290.731708 秒。歌曲、歌词与录音权利归原权利人所有，画面创作不代表获得音乐传播授权。
+音乐：王以太 / 艾热 AIR《周旋》。音频由用户提供，完整长度 290.731708 秒。音乐、录音和歌词的权利归原权利人所有。
 
-画面：使用 OpenAI 内置 imagegen 生成的四幅原创场景绘画。没有使用真人影视、抖音视频或其他作者的插画片段。画风方向由用户选定：日系动画电影感、细腻场景、雨夜光影。AI 辅助绘画并不代表逐帧手工绘制的动画。
+本版是二维分层动作动画。背景是同一张木桌；手机、左手、右手均为独立绘画素材。抬起和放下时改变手腕、手机的位置、角度和透视比例；右手连续移向每个按键，通过网格形变弯曲食指；聊天文字与接触时间联动。相册照片在手机屏幕内随手势滑动。没有使用真人视频、影视剧或抖音视频片段。
 
-画面生成提示词与最终资产：
-room.webp — 保留既定房间构图，细腻 gouache 手绘动画背景：靛蓝城市暮色、暖黄色灯光、大窗、木桌、蓝花茶杯、空椅子、手机与奶油色信封。清除窗上文字和近景固定雨点，手机屏幕留白，供独立实时动画合成。
-phone.webp — 同一房间的木桌俯拍近景，同款蓝花茶杯、信封和铅笔；黑色手机斜放在画面中央，完整浅象牙色屏幕留白，没有烘焙文字或 UI，保留细腻笔触与蓝橙光影。
-street.webp — Create ONE new 16:9 cinematic hand-painted anime background shot in the SAME WORLD and SAME delicate gouache painterly finish as the reference: now outside on that rainy blue-hour neighborhood street, low camera beside a glass bus shelter. Indigo and desaturated teal city roofs and overhead wires recede into a luminous distant dusk, amber streetlamps and a small cozy closed café reflect in the wet pavement. Foreground right is a beautifully painted EMPTY weathered wooden bus stop bench; a small folded red umbrella lies on it. Left and center have a broad dark blue reflective shallow puddle with generous uncluttered space for later lyrical typography. Mood is intimate romantic regret, absence, the place of a missed appointment. NO people, NO silhouettes, NO readable lettering, NO logos. A restrained composition with convincing perspective and fine architectural detail, like a high-quality traditional Japanese animated feature establishing shot. Paint real diffuse soft wet light and delicate hand-painted brush texture, not photorealistic, not glossy 3D. Essential for animation layering: depict rain-wet surfaces but NO falling rain streaks or large near-camera droplets, those will be animated independently. No collage, no frames, full-bleed landscape painting.
-memory.webp — One new cinematic 16:9 anime feature background painting in the exact same finely brushed gouache style, same muted blue, cream and honey-amber palette as reference. A remembered afternoon at a small coastal café: foreground wooden round table at bottom left with TWO delicate ivory teacups with blue floral patterns, one cup still full and one empty, a single tiny pressed red flower and folded blank cream note. Two mismatched chairs face the sea, both EMPTY, shown from behind and partly cropped naturally. Beyond the open café terrace is a luminous blue sea and long horizon, weather gathering in blue-lavender clouds, a thin band of warm peach light. Broad painterly atmospheric sea and sky fill upper two thirds for animated lyric integration. Intimate tactile everyday details, exquisite hand-painted atmospheric perspective, restrained feature-film composition, an aching memory of warmth and absence, no characters, no silhouettes, no textual lettering or logos, no collage. Important animation plate: no moving foreground rain, no foam breaking over objects, no steam drawn above cups, no close-up bokeh; these will be animated separately. Make water softly textured with horizontal blue-teal brushwork suitable for adding animated glimmers. NOT photorealistic, NOT 3D, not a flat cartoon, preserve expressive subtle paint texture.
+六段动作：
+03.6–45.5 秒：伸手、托起手机、发消息、读到爽约回复、写下疑问又删除、放下。
+57.0–83.8 秒：拿起手机、拨打电话、等待、挂断、放下。
+87.5–120.7 秒：再次拿起，写下“我还可以等”，再删掉。
+121.0–178.4 秒：写了又删，翻开相册，滑过回忆，放回桌面。
+184.3–204.0 秒：最后一次追问写进草稿，随后删除。
+204.3–265.5 秒：第二次副歌写下“我可以再等”，逐字删除；手指停在发送位置附近，最终放下手机。
+264–290.731708 秒：锁屏渐暗、双手退出，剩下未发送的空白。
 
-实时动画：Canvas 2D 合成。独立绘制雨滴与玻璃水痕、杯上热气、灯光、海面反光、涟漪；透视合成手机聊天、呼叫和草稿删除；歌词逐句同步，并包含副歌的两段文字运动和雨滴倒影。剧情短信为虚构。句内书写速度属于视觉设计，未做逐字卡拉 OK 人工校准。
+画面素材由 OpenAI 内置 imagegen 生成，以网页 Canvas 实时合成动画，不是逐帧手工绘制或生成式视频。剧情消息均为虚构。保留用户选定的日系动画电影感、细腻场景与雨夜暖冷光影方向。
 
-故事：等待 → 替对方找理由 → 回忆 → 删掉准备发出的消息 → 未发送。
-结构：全曲 04:51、78 句歌词、29 段镜头编排，使用四个绘画场景及不同景别与情绪状态。没有将短视频反向来回播放；场景会在不同段落再次出现。
+素材制作提示词集合（前三项为编辑目标，手部为同风格新生成素材）：
+1. desk.webp：精确保持原木桌构图与笔触，只移除原手机和投影，用连续木纹还原桌面；再清除左下信纸上的固定手写文字，保留杯子、铅笔、信封、光影与一切物体坐标。留白信纸用于动画歌词。
+2. phone.webp：从同尺寸手持手机画中只移除手、手指和袖子；保持手机像素位置、尺寸、空白象牙屏幕和黑色外壳；背景透明。
+3. palm.webp：从手持手机画中只移除手机，保留手腕、袖子与拇指坐标，补全自然轻托姿态的手掌；保持原尺寸，背景透明。
+4. grip.webp：真实透明背景上的左手和深蓝色袖子，暖黄主光与冷蓝边光，细腻动漫电影 gouache 笔触。左手轻握直立黑色手机，屏幕朝向相机并完全留白，拇指沿左边框，其他四指自然绕在手机后方。近正交视角，整个手机和手不裁切，前臂向左下延伸出底部。
+5. tap.webp：同一个人的右手与深蓝袖子，俯看手背；食指向左上伸出用于点触屏幕，其他手指自然弯曲、拇指放松，腕部和袖子斜向右下延伸。精确自然的手部解剖，暖黄与冷蓝光，真实透明背景，没有手机或场景。
+6. memory.webp / room.webp / street.webp：前一绘画版本生成的海边、房间和雨街画面，仅作为手机相册中的回忆图片使用。主场景始终为桌面与手部动作。
 
-字体：Long Cang，Chen Xiaomin，SIL Open Font License 1.1。
-来源：https://github.com/google/fonts/tree/main/ofl/longcang
-许可：见随页的 OFL-LongCang.txt。
+歌词按句同步，句内书写属于视觉设计，没有逐字人工校准。桌面端歌词写在左侧信纸上；竖屏端为保证完整可读性，在画面上方显示。
+
+字体 Long Cang，Chen Xiaomin；SIL Open Font License 1.1。
+字体来源：https://github.com/google/fonts/tree/main/ofl/longcang
+完整字体许可见 OFL-LongCang.txt。
