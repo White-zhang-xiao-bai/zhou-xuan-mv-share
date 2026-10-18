@@ -1,100 +1,20 @@
-《周旋 · 一封没有寄出的信》
-画面、动画与剧情文字为本次原创创作。无真人影视素材。
-音乐：王以太 / 艾热 AIR《周旋》，音频由用户提供，歌曲权利归原权利人所有。
-歌词按句同步，句内文字动画不等同于逐字卡拉 OK 校准。
-字体：Long Cang，Chen Xiaomin
+周旋 · 雨落以前
+
+音乐：王以太 / 艾热 AIR《周旋》。本页音频由用户提供，长度 290.731708 秒。歌曲、歌词与录音权利归原权利人所有，画面创作不代表获得音乐传播授权。
+
+画面：使用 OpenAI 内置 imagegen 生成的四幅原创场景绘画。没有使用真人影视、抖音视频或其他作者的插画片段。画风方向由用户选定：日系动画电影感、细腻场景、雨夜光影。AI 辅助绘画并不代表逐帧手工绘制的动画。
+
+画面生成提示词与最终资产：
+room.webp — 保留既定房间构图，细腻 gouache 手绘动画背景：靛蓝城市暮色、暖黄色灯光、大窗、木桌、蓝花茶杯、空椅子、手机与奶油色信封。清除窗上文字和近景固定雨点，手机屏幕留白，供独立实时动画合成。
+phone.webp — 同一房间的木桌俯拍近景，同款蓝花茶杯、信封和铅笔；黑色手机斜放在画面中央，完整浅象牙色屏幕留白，没有烘焙文字或 UI，保留细腻笔触与蓝橙光影。
+street.webp — Create ONE new 16:9 cinematic hand-painted anime background shot in the SAME WORLD and SAME delicate gouache painterly finish as the reference: now outside on that rainy blue-hour neighborhood street, low camera beside a glass bus shelter. Indigo and desaturated teal city roofs and overhead wires recede into a luminous distant dusk, amber streetlamps and a small cozy closed café reflect in the wet pavement. Foreground right is a beautifully painted EMPTY weathered wooden bus stop bench; a small folded red umbrella lies on it. Left and center have a broad dark blue reflective shallow puddle with generous uncluttered space for later lyrical typography. Mood is intimate romantic regret, absence, the place of a missed appointment. NO people, NO silhouettes, NO readable lettering, NO logos. A restrained composition with convincing perspective and fine architectural detail, like a high-quality traditional Japanese animated feature establishing shot. Paint real diffuse soft wet light and delicate hand-painted brush texture, not photorealistic, not glossy 3D. Essential for animation layering: depict rain-wet surfaces but NO falling rain streaks or large near-camera droplets, those will be animated independently. No collage, no frames, full-bleed landscape painting.
+memory.webp — One new cinematic 16:9 anime feature background painting in the exact same finely brushed gouache style, same muted blue, cream and honey-amber palette as reference. A remembered afternoon at a small coastal café: foreground wooden round table at bottom left with TWO delicate ivory teacups with blue floral patterns, one cup still full and one empty, a single tiny pressed red flower and folded blank cream note. Two mismatched chairs face the sea, both EMPTY, shown from behind and partly cropped naturally. Beyond the open café terrace is a luminous blue sea and long horizon, weather gathering in blue-lavender clouds, a thin band of warm peach light. Broad painterly atmospheric sea and sky fill upper two thirds for animated lyric integration. Intimate tactile everyday details, exquisite hand-painted atmospheric perspective, restrained feature-film composition, an aching memory of warmth and absence, no characters, no silhouettes, no textual lettering or logos, no collage. Important animation plate: no moving foreground rain, no foam breaking over objects, no steam drawn above cups, no close-up bokeh; these will be animated separately. Make water softly textured with horizontal blue-teal brushwork suitable for adding animated glimmers. NOT photorealistic, NOT 3D, not a flat cartoon, preserve expressive subtle paint texture.
+
+实时动画：Canvas 2D 合成。独立绘制雨滴与玻璃水痕、杯上热气、灯光、海面反光、涟漪；透视合成手机聊天、呼叫和草稿删除；歌词逐句同步，并包含副歌的两段文字运动和雨滴倒影。剧情短信为虚构。句内书写速度属于视觉设计，未做逐字卡拉 OK 人工校准。
+
+故事：等待 → 替对方找理由 → 回忆 → 删掉准备发出的消息 → 未发送。
+结构：全曲 04:51、78 句歌词、29 段镜头编排，使用四个绘画场景及不同景别与情绪状态。没有将短视频反向来回播放；场景会在不同段落再次出现。
+
+字体：Long Cang，Chen Xiaomin，SIL Open Font License 1.1。
 来源：https://github.com/google/fonts/tree/main/ofl/longcang
-
-Copyright 2018 The Long Cang Project Authors (https://github.com/googlefonts/longcang)
-
-This Font Software is licensed under the SIL Open Font License, Version 1.1.
-This license is copied below, and is also available with a FAQ at:
-http://scripts.sil.org/OFL
-
-
------------------------------------------------------------
-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
------------------------------------------------------------
-
-PREAMBLE
-The goals of the Open Font License (OFL) are to stimulate worldwide
-development of collaborative font projects, to support the font creation
-efforts of academic and linguistic communities, and to provide a free and
-open framework in which fonts may be shared and improved in partnership
-with others.
-
-The OFL allows the licensed fonts to be used, studied, modified and
-redistributed freely as long as they are not sold by themselves. The
-fonts, including any derivative works, can be bundled, embedded,
-redistributed and/or sold with any software provided that any reserved
-names are not used by derivative works. The fonts and derivatives,
-however, cannot be released under any other type of license. The
-requirement for fonts to remain under this license does not apply
-to any document created using the fonts or their derivatives.
-
-DEFINITIONS
-"Font Software" refers to the set of files released by the Copyright
-Holder(s) under this license and clearly marked as such. This may
-include source files, build scripts and documentation.
-
-"Reserved Font Name" refers to any names specified as such after the
-copyright statement(s).
-
-"Original Version" refers to the collection of Font Software components as
-distributed by the Copyright Holder(s).
-
-"Modified Version" refers to any derivative made by adding to, deleting,
-or substituting -- in part or in whole -- any of the components of the
-Original Version, by changing formats or by porting the Font Software to a
-new environment.
-
-"Author" refers to any designer, engineer, programmer, technical
-writer or other person who contributed to the Font Software.
-
-PERMISSION & CONDITIONS
-Permission is hereby granted, free of charge, to any person obtaining
-a copy of the Font Software, to use, study, copy, merge, embed, modify,
-redistribute, and sell modified and unmodified copies of the Font
-Software, subject to the following conditions:
-
-1) Neither the Font Software nor any of its individual components,
-in Original or Modified Versions, may be sold by itself.
-
-2) Original or Modified Versions of the Font Software may be bundled,
-redistributed and/or sold with any software, provided that each copy
-contains the above copyright notice and this license. These can be
-included either as stand-alone text files, human-readable headers or
-in the appropriate machine-readable metadata fields within text or
-binary files as long as those fields can be easily viewed by the user.
-
-3) No Modified Version of the Font Software may use the Reserved Font
-Name(s) unless explicit written permission is granted by the corresponding
-Copyright Holder. This restriction only applies to the primary font name as
-presented to the users.
-
-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font
-Software shall not be used to promote, endorse or advertise any
-Modified Version, except to acknowledge the contribution(s) of the
-Copyright Holder(s) and the Author(s) or with their explicit written
-permission.
-
-5) The Font Software, modified or unmodified, in part or in whole,
-must be distributed entirely under this license, and must not be
-distributed under any other license. The requirement for fonts to
-remain under this license does not apply to any document created
-using the Font Software.
-
-TERMINATION
-This license becomes null and void if any of the above conditions are
-not met.
-
-DISCLAIMER
-THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT
-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE
-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL
-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM
-OTHER DEALINGS IN THE FONT SOFTWARE.
+许可：见随页的 OFL-LongCang.txt。
