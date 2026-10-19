@@ -1,0 +1,38 @@
+[
+ {"from":3.5,"to":34,"label":"那天 · 19:38","messages":[
+  {"at":5.8,"who":"me","time":"19:10","text":"我到了。"},
+  {"at":9.0,"who":"me","time":"19:38","text":"你快到了吗？"},
+  {"at":14.0,"who":"you","time":"19:46","text":"今天不去了，你别等了。"},
+  {"at":18.2,"who":"me","time":"19:47","text":"没关系，改天也可以。"}
+ ]},
+ {"from":34,"to":66.51,"label":"后来","messages":[
+  {"at":34,"who":"you","time":"对方","text":"最近有点忙。"},
+  {"at":39,"who":"me","time":"已发送","text":"嗯，你先忙。"}
+ ],"draft":{"from":45.5,"to":55.8,"text":"是不是我哪里做得不够好？","typeAt":46.1,"eraseAt":52.0,"speed":4.6,"eraseSpeed":5.3},"typing":[56.86,59.2]},
+ {"from":66.51,"to":86.95,"label":"没有接通的电话","messages":[
+  {"at":66.51,"who":"system","text":"语音通话 · 未接通"},
+  {"at":75.82,"who":"me","time":"已发送","text":"你是不是最近很累？"}
+ ]},
+ {"from":86.95,"to":121,"label":"我还在替你找理由","messages":[
+  {"at":86.95,"who":"you","time":"对方","text":"不是你的问题。"},
+  {"at":94.75,"who":"me","time":"已发送","text":"我知道，没关系。"}
+ ]},
+ {"from":121,"to":138.36,"label":"写了，又删","messages":[
+  {"at":121,"who":"me","time":"已发送","text":"你是不是最近很累？"}
+ ],"draft":{"from":125.3,"to":132.0,"text":"我是不是哪里做得不够好？","typeAt":125.6,"eraseAt":129.4,"speed":5.0,"eraseSpeed":5.6},"later":{"at":134.1,"who":"me","time":"已发送 · 没有新回复","text":"你想要什么，都可以跟我说。"}},
+ {"from":138.36,"to":178.72,"label":"那时候","messages":[
+  {"at":138.36,"who":"you","time":"以前","text":"周末一起去海边吧。"},
+  {"at":144.25,"who":"me","time":"以前","text":"好，你说什么时候都可以。"},
+  {"at":170.62,"who":"you","time":"以前","text":"以后还有好多地方想一起去。"}
+ ]},
+ {"from":178.72,"to":204.08,"label":"回到现在","messages":[
+  {"at":178.72,"who":"me","time":"上次的消息","text":"你想要什么，都可以跟我说。"}
+ ],"draft":{"from":191.34,"to":203.0,"text":"你还想见我吗？","typeAt":192.0,"eraseAt":198.71,"speed":3.6,"eraseSpeed":3.4}},
+ {"from":204.08,"to":236.15,"label":"这一次","messages":[
+  {"at":204.08,"who":"you","time":"最后一条回复","text":"最近有点忙。"}
+ ],"draft":{"from":207.0,"to":236.15,"text":"我可以再等。","typeAt":208.2,"eraseAt":216.21,"speed":1.6,"eraseSpeed":0.9}},
+ {"from":236.15,"to":267.21,"label":"雨落以前","messages":[],"draft":{"from":238.2,"to":267.21,"text":"下雨了，你带伞了吗？","typeAt":239.1,"eraseAt":247.85,"speed":3.2,"eraseSpeed":2.5}},
+ {"from":267.21,"to":284.5,"label":"更早以前","messages":[
+  {"at":274.0,"who":"you","time":"以前","text":"路上慢点。到了跟我说。"}
+ ]}
+]
