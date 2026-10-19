@@ -1,14 +1,20 @@
-周旋 · 未发送的对话 / 回应之间
+周旋 · MV 版本库
 
-叙事：情感需求不对等。一方寻求确认、不断解释并压低自己的需求，另一方很少主动回应，也没有察觉相同程度的不安。回忆里偶尔的温柔使离开更困难。剧情对话为原创虚构，并非歌词原句。
+V1.0 最早真人版，来源 2229025。
+V2.0 真人叙事版，来源 f2a1e6b。
+V3.0 手绘歌词版，来源 1215e8c。
+V4.0 雨夜插画版，来源 996199c。
+V5.0 手机动作版，来源 641799a。
+V6.0 手绘聊天版，来源 3baf4d7（包含同版过渡修订）。
+V7.0 回应之间，来源 5e5d56f。
 
-本版保留完整歌曲 290.731708 秒与 78 个歌词时间点；13 个聊天章节跟随同一音频时钟。草稿单独保存在输入层，经历输入、停顿、删除，不会自动转为已发送消息。
+按已发布的历史版本恢复原有视觉与叙事，统一导出 1080×1920、30fps、H.264 / AAC 的竖屏 MP4，每版约 290.733 秒，字幕与画面已烘焙到视频中。
+真人版本保留完整横屏镜头，以模糊背景适配竖屏，字幕与原有剧情文字重新排版；其他版本使用原来的 Canvas 动画时间轴逐帧导出。网页播放与下载均使用同一份 MP4。
 
-六幅背景：原有空房间、空海边，新增同处一室的距离、回忆中递热饮、门口离开、公交站远去。四幅新增插画使用内置图像生成工具制作，人物虚构。场景为绘画，消息、草稿和歌词由网页实时绘制；环境中有雨、玻璃水滴、海面和热气。没有将插画中的人物移动描述为真实角色动画。
+音乐：王以太 / 艾热 AIR《周旋》，由用户提供；歌曲、录音与歌词权利归原权利人所有。剧情对话为虚构创作。
+真人素材的原始来源和当时记录的许可类型见 library/credits-live.txt，保留原记录；导出不代表取得新的发布许可。
+V4.0 至 V7.0 的绘画由内置图像生成工具辅助制作，人物为虚构。
+字体：Long Cang（Chen Xiaomin）和 Noto Sans SC，按 SIL Open Font License 使用；许可文件为 OFL-LongCang.txt、relationship/OFL-NotoSansSC.txt。
 
-音乐：王以太 / 艾热 AIR《周旋》，音频由用户提供；歌曲、录音与歌词权利归原权利人所有。
-字体：Long Cang（Chen Xiaomin）及 Noto Sans SC（Noto Project Authors），SIL Open Font License 1.1。
-来源：https://github.com/google/fonts/tree/main/ofl/longcang
-https://github.com/google/fonts/tree/main/ofl/notosanssc
-完整许可：OFL-LongCang.txt、relationship/OFL-NotoSansSC.txt。
-歌词按句同步，句内文字出现动画不是逐字卡拉 OK 校准。
+library/manifest.json 保存七份视频的来源版本、编码信息、大小与 SHA-256。
+interactive.html 保留最新的原互动作品。
